@@ -1,5 +1,5 @@
 ---
-name: Arts / Culture / History
-logo: "/img/categories/arts-culture-history.svg"
+name: Mosquitos
+logo: /img/categories/health-human-services.svg
 featured: true
 ---
