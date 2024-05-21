@@ -1,5 +1,5 @@
 ---
 title: Fiocruz
-description: Vive la Fiocruz
+description: Fundação Osvaldo Cruz
 logo: /img/organizations/fiocruz.png
 ---
